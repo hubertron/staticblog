@@ -22,3 +22,7 @@ gem 'middleman-livereload'
 
 
 gem "rack-contrib"
+
+
+#S3 Sync
+gem 'middleman-s3_sync'
