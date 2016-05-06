@@ -20,8 +20,11 @@ gem "builder", "~> 3.0"
 # live reload for auto refresh
 gem 'middleman-livereload'
 
-
+# Requested additions from this walkthrough: https://robots.thoughtbot.com/middleman-bourbon-walkthrough
 gem "rack-contrib"
+gem 'bitters'
+gem 'bourbon'
+gem 'neat'
 
 
 #S3 Sync
