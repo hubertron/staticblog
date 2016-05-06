@@ -1,10 +1,11 @@
 ---
 title: Example Article
-date: 2012-01-01
+date: 2013-01-02
 tags: example
 ---
 
-<p>Chicharrones kinfolk biodiesel meditation iPhone authentic VHS. Wayfarers post-ironic pork belly man braid, bicycle rights hashtag intelligentsia letterpress polaroid photo booth meh bespoke biodiesel mixtape. Pabst pug farm-to-table vice, mlkshk kogi typewriter retro. Green juice forage quinoa brunch keffiyeh drinking vinegar. Cardigan four dollar toast tacos leggings. Austin wolf paleo, roof party franzen kinfolk meggings hoodie blue bottle selvage blog ennui listicle irony. Kinfolk intelligentsia literally, shoreditch 3 wolf moon keffiyeh trust fund.</b>
+
+![giphy.gif](2013-01-02/giphy.gif)
 
 <p>Lumbersexual migas neutra semiotics. Swag farm-to-table gastropub bespoke waistcoat readymade. YOLO tumblr shabby chic, pour-over taxidermy slow-carb tilde gastropub waistcoat. Twee try-hard hella, tattooed chambray cardigan +1 DIY umami quinoa roof party locavore squid pabst tousled. Put a bird on it selfies cardigan austin, tofu dreamcatcher PBR&B sustainable bespoke tacos craft beer farm-to-table. Butcher banjo wayfarers, bicycle rights ramps salvia brooklyn jean shorts swag slow-carb shoreditch. Cardigan cred humblebrag, keytar small batch readymade try-hard tumblr listicle you probably haven't heard of them literally aesthetic four dollar toast raw denim godard.</b>
 

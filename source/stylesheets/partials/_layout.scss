@@ -1,29 +1,36 @@
 #main {
     @include outer-container;
-}
+     
+    ol {
+    font-size: 1em;
+    font-weight: 500;
 
-ol {
-  font-size: 1em;
-  font-weight: 500;
+    li {
+        margin: .5em 0;
 
-  li {
-    margin: .5em 0;
+        span {
+        display: inline-block;
 
-    span {
-      display: inline-block;
-
-      &:before {
-        content: '/';
-        margin: 0 .3em;
-      }
+        &:before {
+            content: '/';
+            margin: 0 .3em;
+        }
+        }
     }
-  }
-}
+    }
 
-.large-column {
-  @include span-columns(8 of 12);
-}
+    .large-column {
+    @include span-columns(8 of 12);
+    }
 
-.small-column {
-  @include span-columns(4 of 12);
+    .small-column {
+    @include span-columns(4 of 12);
+    }
+    
+    ul.posts li.posts {
+    margin-bottom: 70px;
+    border-bottom: 1px solid $base-border-color;
+    padding-bottom: 30px;
+    }
+    
 }
